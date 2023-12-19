@@ -1,0 +1,38 @@
+{
+  "student": [
+    {
+      "name": "Amin Islam",
+      "age": 20,
+      "gender": "Male",
+      "photo": "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/346051613_254309320403131_1156063062724532570_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFora1wByerFkP5HZ4-gpQcgyfq9DL_PLCDJ-r0Mv88sOFTa7E_kaxqdxjP3ZLJpSMEbAdFSX7IhH_xfS2Vuy6k&_nc_ohc=CL9CPN-hmH8AX8fnwns&_nc_ht=scontent.fdac138-1.fna&oh=00_AfAm9FV7snrhE7n5dWanhSRNl_RTwrEisPPi19L3kHA32w&oe=657DE571",
+      "skill": "MERN Stack",
+      "id": 1
+    },
+    {
+      "name": "Nur Islam",
+      "age": 30,
+      "gender": "Male",
+      "photo": "https://contents.mediadecathlon.com/p2436315/e957bd6a23553ffabaef22fd550e99c3/p2436315.jpg?format=auto&quality=70&f=650x0",
+      "skill": "IOS DEVS",
+      "id": 2
+    },
+    {
+      "name": "Raihan Islam",
+      "age": 30,
+      "gender": "Male",
+      "photo": "https://m.media-amazon.com/images/M/MV5BZDkxMGU4ZGEtZWFjZC00N2IyLTllNTAtZWMyZmU2MGI0YmM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "skill": "IOS DEVS",
+      "id": 3
+    },
+    {
+      "name": "Sadik Islam",
+      "age": 40,
+      "gender": "Male",
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/paris-str-s24-0954-6554dac8c0a4c.jpg?crop=1.00xw:0.668xh;0,0.156xh&resize=1200:*",
+      "skill": "Laravel Devs",
+      "id": 4
+    }
+  ],
+  "teacher": [],
+  "staff": []
+}
